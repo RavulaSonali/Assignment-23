@@ -1,0 +1,7 @@
+D:\Mphasis\29-11-2023\Assignment-23\bin\Debug\Assignment-23.exe.config
+D:\Mphasis\29-11-2023\Assignment-23\bin\Debug\Assignment-23.exe
+D:\Mphasis\29-11-2023\Assignment-23\bin\Debug\Assignment-23.pdb
+D:\Mphasis\29-11-2023\Assignment-23\obj\Debug\Assignment-23.csproj.AssemblyReference.cache
+D:\Mphasis\29-11-2023\Assignment-23\obj\Debug\Assignment-23.csproj.CoreCompileInputs.cache
+D:\Mphasis\29-11-2023\Assignment-23\obj\Debug\Assignment-23.exe
+D:\Mphasis\29-11-2023\Assignment-23\obj\Debug\Assignment-23.pdb
